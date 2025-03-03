@@ -11,11 +11,12 @@ Ce projet vise à développer une application de gestion des affectations des em
 
 ## Installation
 
-### Prérequis
-- ....
-- ...
--..
+## Maquete du Site
+-- ..
 
+### Prérequis
+- ..
+- ..
 ### Cloner le repository
-```bash
+
 git clone https://github.com/NoeCalmes/Hackathon
